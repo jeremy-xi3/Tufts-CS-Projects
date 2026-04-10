@@ -1,0 +1,102 @@
+/**********************************************************
+* Project 1: Metro Simulator
+* CS 15
+* README
+* Jeremy Xie
+*********************************************************/
+
+Compile/run:
+     - Compile using
+            make MetroSim
+     - run executable with
+            ./MetroSim stationsFile passFile [commands]
+
+
+Program Purpose:
+To run a simulation of Metro Simulator.
+
+Acknowledgements: 
+I used the posts on https://cplusplus.com/ to understand the vector and list 
+classes.
+
+Files: 
+
+main.cpp:
+     Reads in files and creates a query in which the Metro Simulation can run.
+
+MetroSim.cpp:
+     Implements the MetroSim class and provides functions for it. Includes a
+     function in the case that a command file is provided for the Simulation.
+
+MetroSim.h:
+     Interface of MetroSim class.
+
+stations.txt:
+     an example file containing a list of stations.
+
+test_commands.txt:
+     sample list of commands that you could give to the simulator
+
+the_metroSim:
+     reference implementation for students to see how 
+
+PassengerQueue.cpp:
+     Implements a queue of Passengers that models the stations and specific
+     cars on the train.
+
+PassengerQueue.h:
+     Interface of PassengerQueue class.
+
+Passenger.cpp:
+     Implements the Passenger class. Assumes that when a Passenger is 
+     constructed, it will have an id, starting station, and ending station.
+     Allows clients to print out the passenger's information.
+
+Passenger.h:
+     Interface of the Passenger class.
+
+Makefile:
+     Contains neccessary information to compile the program using the 
+     "make MetroSim" command.
+
+unit_tests.h:
+     Contains tests for the PassengerQueue class. 
+
+README:
+     Contains answers to questions provided at the end of the spec
+
+Architectural Overview:
+     The whole simulation is contained in the MetroSim class. In MetroSim, the
+     train is represented by a vector of PassengerQueues and its current 
+     location as a pointer to a PassengerQueue inside of that vector. Each
+     PassengerQueue represents a station, where every passenger in the Queue
+     aims to depart the train at the same station. Additionally, the stations 
+     themselves are represented by a vector of PassengerQueues. Each station
+     is represented by a struct that has the number that the station was read
+     in from the station file, a string denoting the name of the station, and
+     the PassengerQueue that represents the queue of Passengers. 
+
+
+Data Structures:
+Vectors and Lists
+     I used vectors for the list of stations because I typically needed to
+     identify which station a passenger should be added to. In these cases, 
+     it was more effective to use a vector because of its easy access to all
+     of the elements in the vector. On the other hand, for Passenger Queues, 
+     I used queues because it was more efficient at storing passengers and 
+     dispensing them at their desired locations. 
+
+
+Testing:
+
+I tested my final submission of the project by comparing its output to the 
+provided diff file. For the first part, I used an unit test to ensure the
+correct output was given. Additionally, I manually created new input files to
+test against my program and the demo program. 
+
+
+Part that you found most difficult:
+
+I found the most challenging part of the assignment to be moving the train.
+
+Time Spent: 10 hours

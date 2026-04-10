@@ -1,0 +1,59 @@
+: Cursor Position: [0, 0]
+oen two three four five six seven eight
+: Cursor Position: [1, 0]
+ooen two three four five six seven eight
+: Cursor Position: [2, 0]
+onoen two three four five six seven eight
+: Cursor Position: [3, 0]
+oneoen two three four five six seven eight
+: Cursor Position: [4, 0]
+one oen two three four five six seven eight
+: Cursor Position: [5, 0]
+one toen two three four five six seven eight
+: Cursor Position: [6, 0]
+one twoen two three four five six seven eight
+: Cursor Position: [7, 0]
+one twooen two three four five six seven eight
+: Cursor Position: [6, 0]
+one twoen two three four five six seven eight
+: Cursor Position: [7, 0]
+one twtoen two three four five six seven eight
+: Cursor Position: [8, 0]
+one twthoen two three four five six seven eight
+: Cursor Position: [9, 0]
+one twthroen two three four five six seven eight
+: Cursor Position: [10, 0]
+one twthreoen two three four five six seven eight
+: Cursor Position: [11, 0]
+one twthreeoen two three four five six seven eight
+: Cursor Position: [0, 1]
+one twthree
+oen two three four five six seven eight
+: Cursor Position: [1, 1]
+one twthree
+foen two three four five six seven eight
+: Cursor Position: [2, 1]
+one twthree
+fooen two three four five six seven eight
+: Cursor Position: [3, 1]
+one twthree
+fouoen two three four five six seven eight
+: Cursor Position: [4, 1]
+one twthree
+fouroen two three four five six seven eight
+: Cursor Position: [0, 1]
+one twthree
+oen two three four five six seven eight
+: Cursor Position: [4, 1]
+one twthree
+fouroen two three four five six seven eight
+: Cursor Position: [0, 1]
+one twthree
+oen two three four five six seven eight
+: Cursor Position: [11, 0]
+one twthreeoen two three four five six seven eight
+: Cursor Position: [6, 0]
+one twoen two three four five six seven eight
+: Cursor Position: [7, 0]
+one twooen two three four five six seven eight
+Do you wish to save before closing (y or n)?

@@ -1,0 +1,75 @@
+: Cursor Position: [0, 0]
+
+: Cursor Position: [1, 0]
+l
+: Cursor Position: [2, 0]
+la
+: Cursor Position: [3, 0]
+laz
+: Cursor Position: [4, 0]
+lazy
+: Cursor Position: [5, 0]
+lazy 
+: Cursor Position: [6, 0]
+lazy d
+: Cursor Position: [7, 0]
+lazy do
+: Cursor Position: [8, 0]
+lazy dog
+: Cursor Position: [7, 0]
+lazy do
+: Cursor Position: [6, 0]
+lazy d
+: Cursor Position: [5, 0]
+lazy 
+: Cursor Position: [4, 0]
+lazy
+: Cursor Position: [5, 0]
+lazyc
+: Cursor Position: [6, 0]
+lazyca
+: Cursor Position: [7, 0]
+lazycat
+: Cursor Position: [4, 0]
+lazy
+: Cursor Position: [8, 0]
+lazy dog
+: Cursor Position: [4, 0]
+lazy
+: Cursor Position: [8, 0]
+lazy dog
+: Cursor Position: [4, 0]
+lazy
+: Cursor Position: [8, 0]
+lazy dog
+: Cursor Position: [0, 0]
+
+: Cursor Position: [8, 0]
+lazy dog
+: Cursor Position: [4, 0]
+lazy
+: Cursor Position: [5, 0]
+lazyr
+: Cursor Position: [4, 0]
+lazy
+: Cursor Position: [3, 0]
+laz
+: Cursor Position: [2, 0]
+la
+: Cursor Position: [1, 0]
+l
+: Cursor Position: [0, 0]
+
+: Cursor Position: [1, 0]
+o
+: Cursor Position: [2, 0]
+on
+: Cursor Position: [3, 0]
+one
+: Cursor Position: [2, 0]
+on
+: Cursor Position: [1, 0]
+o
+: Cursor Position: [0, 0]
+
+Do you wish to save before closing (y or n)?

@@ -1,0 +1,1066 @@
+: Cursor Position: [0, 0]
+
+: Cursor Position: [1, 0]
+h
+: Cursor Position: [2, 0]
+he
+: Cursor Position: [3, 0]
+hel
+: Cursor Position: [4, 0]
+hell
+: Cursor Position: [5, 0]
+hello
+: Cursor Position: [6, 0]
+hello 
+: Cursor Position: [7, 0]
+hello o
+: Cursor Position: [8, 0]
+hello on
+: Cursor Position: [9, 0]
+hello one
+: Cursor Position: [10, 0]
+hello one 
+: Cursor Position: [11, 0]
+hello one t
+: Cursor Position: [12, 0]
+hello one tw
+: Cursor Position: [13, 0]
+hello one two
+: Cursor Position: [14, 0]
+hello one two 
+: Cursor Position: [15, 0]
+hello one two t
+: Cursor Position: [16, 0]
+hello one two th
+: Cursor Position: [17, 0]
+hello one two the
+: Cursor Position: [18, 0]
+hello one two ther
+: Cursor Position: [19, 0]
+hello one two there
+: Cursor Position: [20, 0]
+hello one two therer
+: Cursor Position: [21, 0]
+hello one two therere
+: Cursor Position: [22, 0]
+hello one two therere 
+: Cursor Position: [23, 0]
+hello one two therere r
+: Cursor Position: [24, 0]
+hello one two therere re
+: Cursor Position: [25, 0]
+hello one two therere rei
+: Cursor Position: [26, 0]
+hello one two therere rein
+: Cursor Position: [27, 0]
+hello one two therere reinf
+: Cursor Position: [28, 0]
+hello one two therere reinfa
+: Cursor Position: [29, 0]
+hello one two therere reinfao
+: Cursor Position: [30, 0]
+hello one two therere reinfaoa
+: Cursor Position: [31, 0]
+hello one two therere reinfaoaf
+: Cursor Position: [32, 0]
+hello one two therere reinfaoafo
+: Cursor Position: [33, 0]
+hello one two therere reinfaoafoa
+: Cursor Position: [34, 0]
+hello one two therere reinfaoafoai
+: Cursor Position: [35, 0]
+hello one two therere reinfaoafoaie
+: Cursor Position: [36, 0]
+hello one two therere reinfaoafoaief
+: Cursor Position: [37, 0]
+hello one two therere reinfaoafoaiefn
+: Cursor Position: [38, 0]
+hello one two therere reinfaoafoaiefna
+: Cursor Position: [39, 0]
+hello one two therere reinfaoafoaiefnae
+: Cursor Position: [0, 1]
+hello one two therere reinfaoafoaiefnae
+
+: Cursor Position: [1, 1]
+hello one two therere reinfaoafoaiefnae
+a
+: Cursor Position: [2, 1]
+hello one two therere reinfaoafoaiefnae
+aj
+: Cursor Position: [3, 1]
+hello one two therere reinfaoafoaiefnae
+ajf
+: Cursor Position: [4, 1]
+hello one two therere reinfaoafoaiefnae
+ajfo
+: Cursor Position: [5, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoi
+: Cursor Position: [6, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoie
+: Cursor Position: [7, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoiea
+: Cursor Position: [8, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoiean
+: Cursor Position: [9, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoieanf
+: Cursor Position: [10, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfe
+: Cursor Position: [11, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeo
+: Cursor Position: [12, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoa
+: Cursor Position: [13, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoai
+: Cursor Position: [14, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaie
+: Cursor Position: [15, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaief
+: Cursor Position: [16, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefn
+: Cursor Position: [17, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefna
+: Cursor Position: [18, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnae
+: Cursor Position: [19, 1]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+: Cursor Position: [0, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+
+: Cursor Position: [1, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+a
+: Cursor Position: [2, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+af
+: Cursor Position: [3, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afi
+: Cursor Position: [4, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afie
+: Cursor Position: [5, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afien
+: Cursor Position: [6, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afiena
+: Cursor Position: [7, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienao
+: Cursor Position: [8, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaof
+: Cursor Position: [9, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofn
+: Cursor Position: [10, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofne
+: Cursor Position: [11, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofnea
+: Cursor Position: [12, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaf
+: Cursor Position: [13, 2]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+: Cursor Position: [0, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+
+: Cursor Position: [1, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+f
+: Cursor Position: [2, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+fa
+: Cursor Position: [3, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+fao
+: Cursor Position: [4, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoe
+: Cursor Position: [5, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoef
+: Cursor Position: [6, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefn
+: Cursor Position: [7, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefna
+: Cursor Position: [8, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnao
+: Cursor Position: [9, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaof
+: Cursor Position: [10, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofn
+: Cursor Position: [11, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofne
+: Cursor Position: [12, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneo
+: Cursor Position: [13, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoa
+: Cursor Position: [14, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoan
+: Cursor Position: [15, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanf
+: Cursor Position: [16, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfo
+: Cursor Position: [17, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoi
+: Cursor Position: [18, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoia
+: Cursor Position: [19, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiae
+: Cursor Position: [20, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaes
+: Cursor Position: [21, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesn
+: Cursor Position: [22, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnf
+: Cursor Position: [23, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfo
+: Cursor Position: [24, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoi
+: Cursor Position: [25, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoia
+: Cursor Position: [26, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoian
+: Cursor Position: [27, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoiane
+: Cursor Position: [28, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeo
+: Cursor Position: [29, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeof
+: Cursor Position: [30, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofi
+: Cursor Position: [31, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofin
+: Cursor Position: [32, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofina
+: Cursor Position: [33, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinao
+: Cursor Position: [34, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoe
+: Cursor Position: [35, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoei
+: Cursor Position: [36, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeif
+: Cursor Position: [37, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifn
+: Cursor Position: [38, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifna
+: Cursor Position: [39, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnao
+: Cursor Position: [40, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoi
+: Cursor Position: [41, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoif
+: Cursor Position: [42, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifn
+: Cursor Position: [43, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifna
+: Cursor Position: [44, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnas
+: Cursor Position: [45, 3]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+: Cursor Position: [0, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+
+: Cursor Position: [1, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+a
+: Cursor Position: [2, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af
+: Cursor Position: [3, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[
+: Cursor Position: [4, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[o
+: Cursor Position: [5, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[on
+: Cursor Position: [6, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[ona
+: Cursor Position: [7, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onao
+: Cursor Position: [8, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoi
+: Cursor Position: [9, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoif
+: Cursor Position: [10, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifn
+: Cursor Position: [11, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifna
+: Cursor Position: [12, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnao
+: Cursor Position: [13, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaof
+: Cursor Position: [14, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofe
+: Cursor Position: [15, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofen
+: Cursor Position: [16, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofeno
+: Cursor Position: [17, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoa
+: Cursor Position: [18, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoaf
+: Cursor Position: [19, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafn
+: Cursor Position: [20, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafne
+: Cursor Position: [21, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnek
+: Cursor Position: [22, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekj
+: Cursor Position: [23, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekja
+: Cursor Position: [24, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjas
+: Cursor Position: [25, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasd
+: Cursor Position: [26, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdn
+: Cursor Position: [27, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdna
+: Cursor Position: [28, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnaf
+: Cursor Position: [29, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafl
+: Cursor Position: [30, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafld
+: Cursor Position: [31, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldk
+: Cursor Position: [32, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkj
+: Cursor Position: [33, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjn
+: Cursor Position: [34, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnf
+: Cursor Position: [35, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfa
+: Cursor Position: [36, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfak
+: Cursor Position: [37, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakj
+: Cursor Position: [38, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjd
+: Cursor Position: [39, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjds
+: Cursor Position: [40, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsn
+: Cursor Position: [41, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnf
+: Cursor Position: [42, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfa
+: Cursor Position: [43, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfas
+: Cursor Position: [44, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasj
+: Cursor Position: [45, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjd
+: Cursor Position: [46, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdn
+: Cursor Position: [47, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnf
+: Cursor Position: [48, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfo
+: Cursor Position: [49, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoa
+: Cursor Position: [50, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoas
+: Cursor Position: [51, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasd
+: Cursor Position: [52, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdn
+: Cursor Position: [53, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnf
+: Cursor Position: [54, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfa
+: Cursor Position: [55, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfas
+: Cursor Position: [56, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasd
+: Cursor Position: [57, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdf
+: Cursor Position: [58, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfa
+: Cursor Position: [59, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfas
+: Cursor Position: [60, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfaso
+: Cursor Position: [61, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoi
+: Cursor Position: [62, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoid
+: Cursor Position: [63, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidf
+: Cursor Position: [64, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfn
+: Cursor Position: [65, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfna
+: Cursor Position: [66, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnas
+: Cursor Position: [67, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnaso
+: Cursor Position: [68, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasof
+: Cursor Position: [69, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofi
+: Cursor Position: [70, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofin
+: Cursor Position: [71, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofine
+: Cursor Position: [72, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofinea
+: Cursor Position: [73, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineao
+: Cursor Position: [74, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaon
+: Cursor Position: [75, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonf
+: Cursor Position: [76, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfo
+: Cursor Position: [77, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoa
+: Cursor Position: [78, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoae
+: Cursor Position: [79, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaen
+: Cursor Position: [80, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenf
+: Cursor Position: [81, 4]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+: Cursor Position: [0, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+
+: Cursor Position: [1, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+f
+: Cursor Position: [2, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+fa
+: Cursor Position: [3, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+fae
+: Cursor Position: [4, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeo
+: Cursor Position: [5, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoa
+: Cursor Position: [6, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoai
+: Cursor Position: [7, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaif
+: Cursor Position: [8, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifn
+: Cursor Position: [9, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifne
+: Cursor Position: [10, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifneo
+: Cursor Position: [11, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifneoa
+: Cursor Position: [12, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifneoan
+: Cursor Position: [13, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifneoane
+: Cursor Position: [14, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifneoanef
+: Cursor Position: [15, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifneoanefo
+: Cursor Position: [16, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifneoanefoa
+: Cursor Position: [17, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifneoanefoae
+: Cursor Position: [18, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifneoanefoaei
+: Cursor Position: [19, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifneoanefoaeif
+: Cursor Position: [20, 5]
+hello one two therere reinfaoafoaiefnae
+ajfoieanfeoaiefnaef
+afienaofneaff
+faoefnaofneoanfoiaesnfoianeofinaoeifnaoifnasf
+af[onaoifnaofenoafnekjasdnafldkjnfakjdsnfasjdnfoasdnfasdfasoidfnasofineaonfoaenfa
+faeoaifneoanefoaeifn
+Do you wish to save before closing (y or n)?

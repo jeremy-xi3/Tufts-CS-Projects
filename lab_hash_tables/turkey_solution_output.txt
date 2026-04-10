@@ -1,0 +1,114 @@
+Bad Hash Function
+inserting keys: "Roasted Turkey" "Mashed Potatoes" "Baked Mac and Cheese" "Pumpkin Pie" "Cornbread Stuffing" "Cranberry Sauce" "Apple Pie" "Dinner Rolls" "Sweet Potato Casserole" "Roasted Brussels Sprouts"
+Results for your code:
+     Linear Probing: reprobes = 1  max lookup = 1
+           Chaining: reprobes = 0  max bucket size = 2
+
+Your Tables:
+Linear table
+0:  empty
+1:  key:  Roasted Brussels Sprouts; value:  {8, 30}
+2:  empty
+3:  empty
+4:  empty
+5:  empty
+6:  empty
+7:  empty
+8:  empty
+9:  key:  Apple Pie; value:  {8, 60}
+10:  empty
+11:  key:  Pumpkin Pie; value:  {8, 50}
+12:  key:  Dinner Rolls; value:  {12, 120}
+13:  empty
+14:  key:  Roasted Turkey; value:  {12, 240}
+15:  key:  Mashed Potatoes; value:  {8, 30}
+16:  key:  Cranberry Sauce; value:  {10, 20}
+17:  empty
+18:  key:  Cornbread Stuffing; value:  {10, 40}
+19:  empty
+20:  key:  Baked Mac and Cheese; value:  {6, 129}
+21:  empty
+22:  key:  Sweet Potato Casserole; value:  {10, 35}
+
+Chained table
+0:  [ ]
+1:  [ key:  Roasted Brussels Sprouts; value:  {8, 30}]
+2:  [ ]
+3:  [ ]
+4:  [ ]
+5:  [ ]
+6:  [ ]
+7:  [ ]
+8:  [ ]
+9:  [ key:  Apple Pie; value:  {8, 60}]
+10:  [ ]
+11:  [ key:  Pumpkin Pie; value:  {8, 50}]
+12:  [ key:  Dinner Rolls; value:  {12, 120}]
+13:  [ ]
+14:  [ key:  Roasted Turkey; value:  {12, 240}]
+15:  [ key:  Cranberry Sauce; value:  {10, 20}, key:  Mashed Potatoes; value:  {8, 30}]
+16:  [ ]
+17:  [ ]
+18:  [ key:  Cornbread Stuffing; value:  {10, 40}]
+19:  [ ]
+20:  [ key:  Baked Mac and Cheese; value:  {6, 129}]
+21:  [ ]
+22:  [ key:  Sweet Potato Casserole; value:  {10, 35}]
+
+
+Good Hash Function
+inserting keys: "Roasted Turkey" "Mashed Potatoes" "Baked Mac and Cheese" "Pumpkin Pie" "Cornbread Stuffing" "Cranberry Sauce" "Apple Pie" "Dinner Rolls" "Sweet Potato Casserole" "Roasted Brussels Sprouts"
+Results for your code:
+     Linear Probing: reprobes = 1  max lookup = 1
+           Chaining: reprobes = 0  max bucket size = 2
+
+Your Tables:
+Linear table
+0:  key:  Roasted Turkey; value:  {12, 240}
+1:  empty
+2:  empty
+3:  empty
+4:  key:  Baked Mac and Cheese; value:  {6, 129}
+5:  key:  Apple Pie; value:  {8, 60}
+6:  empty
+7:  empty
+8:  key:  Roasted Brussels Sprouts; value:  {8, 30}
+9:  empty
+10:  empty
+11:  empty
+12:  key:  Mashed Potatoes; value:  {8, 30}
+13:  key:  Dinner Rolls; value:  {12, 120}
+14:  empty
+15:  empty
+16:  empty
+17:  key:  Sweet Potato Casserole; value:  {10, 35}
+18:  key:  Pumpkin Pie; value:  {8, 50}
+19:  empty
+20:  empty
+21:  key:  Cranberry Sauce; value:  {10, 20}
+22:  key:  Cornbread Stuffing; value:  {10, 40}
+
+Chained table
+0:  [ key:  Roasted Turkey; value:  {12, 240}]
+1:  [ ]
+2:  [ ]
+3:  [ ]
+4:  [ key:  Apple Pie; value:  {8, 60}, key:  Baked Mac and Cheese; value:  {6, 129}]
+5:  [ ]
+6:  [ ]
+7:  [ ]
+8:  [ key:  Roasted Brussels Sprouts; value:  {8, 30}]
+9:  [ ]
+10:  [ ]
+11:  [ ]
+12:  [ key:  Mashed Potatoes; value:  {8, 30}]
+13:  [ key:  Dinner Rolls; value:  {12, 120}]
+14:  [ ]
+15:  [ ]
+16:  [ ]
+17:  [ key:  Sweet Potato Casserole; value:  {10, 35}]
+18:  [ key:  Pumpkin Pie; value:  {8, 50}]
+19:  [ ]
+20:  [ ]
+21:  [ key:  Cranberry Sauce; value:  {10, 20}]
+22:  [ key:  Cornbread Stuffing; value:  {10, 40}]

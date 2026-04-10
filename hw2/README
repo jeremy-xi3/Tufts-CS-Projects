@@ -1,0 +1,43 @@
+(A) HW02 (hw_linkedlists) Jeremy Xie
+(B) The purpose of the program is to make a Character Linked List and create 
+functions that return certain values in each list. Additionally, the functions
+will also alter certain characters in the lists. 
+(C) I recieved help from office hours on 2/1/26
+(D) I have provided a README file, which answers question given in the
+homework spec. Additionally, I have attached unit_tests.h, which contains 
+tests for the functions in CharLinkedLists.cpp. In CharLinkedLists.cpp, I have
+included function definitions for the functions declared in CharLinkedLists.h.
+Finally, in CharLinkedLists.h, I have included a class definition for 
+CharLinkedLists and the functions that edit the nodes inside the list.
+Additionally, those functions can call on elements inside of the class. 
+(E) By using unit_test.
+(H) I spent around 5 hours on this project.
+(I) 1. (in nanoseconds)
+Insertion:
+pushAtFront: 1894 pushAtBack: 5270083 insertAt middle of list: 2528320
+Removal:
+popFromFront: 3534 popFromBack: 4730469 removeAt middle of list: 2239455
+Access:
+first: 400 last: 5153235 elementAt for middle of list: 2216651
+operations ranked: Removal, Access, Insertion
+2. Operations that accessed elements closer to the front of the list were
+faster because of the way that the elements in the linked list are accessed.
+In each LinkedList, there is a pointer to the front, allowing for easy access
+when performing functions on it. However, for the other elements at further
+indices, the program must first recurse to the element before the function 
+can be done. 
+3. Access is slower in linked lists, while on average, insertion and removal 
+take around the same amount of time. Linked lists are generally faster than
+array lists when accessing the first element because of the easier access. 
+However, because of indices, arraylists are typically faster in accessing 
+later elements in the lists. 
+Qyuestions:
+Q1: I found it easier to implement the functions that accessed the first 
+element in linked lists because of the front pointer in the linked lists. 
+Additionally, after I completed creating the ElementAt helper function, 
+creating the rest of the functions became much easier because I could reuse
+the helper function. 
+Q2: The functions that accessed a specific index was harder to implement
+because I would have to recurse to each index instead of calling it normally.
+Q3: The client would only have to change teh constructor type because both
+lists use the same functions and should contain the same output.

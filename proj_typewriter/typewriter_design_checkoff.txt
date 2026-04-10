@@ -1,0 +1,231 @@
+Name:
+utln:
+
+Answer the questions below, and submit your answers under the
+assignment "typewriter Design Checkoff" on Gradescope.  You must
+sign up for a design checkoff slot with a TA to discuss your provided
+answers (see spec for link).
+
+1. Run the reference implementation using the following command:
+`./the_typewriter pingpong.text logfile.text`
+
+Once it is running, do the following:
+        a) Type "ping"
+        b) Press return
+        c) Type "pong"
+        d) Press backspace 5 times
+        e) Press escape
+        f) Type "x"
+        g) Type "y"
+        h) Press "return"
+
+After doing this, what are the contents of pingpong.text? What about
+logfile.text? Paste both below, and *briefly* describe the contents
+of logfile.text; what information is logged?
+
+Answer: The contents of pingpong.txt is "ping" followed by 2 empty lines. 
+logfile.txt contains information about what I had just typed out and updates
+every time the cursor postiion changes or the contents of the text changes.
+The cursor position and the contents of what is printed out is logged. 
+
+logfile:
+: Cursor Position: [0, 0]
+
+: Cursor Position: [1, 0]
+p
+: Cursor Position: [2, 0]
+pi
+: Cursor Position: [3, 0]
+pin
+: Cursor Position: [4, 0]
+ping
+: Cursor Position: [0, 1]
+ping
+
+: Cursor Position: [1, 1]
+ping
+p
+: Cursor Position: [2, 1]
+ping
+po
+: Cursor Position: [3, 1]
+ping
+pon
+: Cursor Position: [4, 1]
+ping
+pong
+: Cursor Position: [0, 2]
+ping
+pong
+
+: Cursor Position: [4, 1]
+ping
+pong
+: Cursor Position: [3, 1]
+ping
+pon
+: Cursor Position: [2, 1]
+ping
+po
+: Cursor Position: [1, 1]
+ping
+p
+: Cursor Position: [0, 1]
+ping
+
+Do you wish to save before closing (y or n)?
+
+
+
+2. Now run the keylogger that was provided with the starter files
+(i.e., `./keylogger`). When prompted for a filename, enter
+"test.input". Then carry out the exact steps (a)-(h) as stated in
+the previous question, except swap steps (a) and (c). Conclude the
+keylogger by pressing "escape" two times. You should now have a
+file named "test.input". 
+
+
+Without editing/removing either of the files created in the previous
+question, run the reference implementation again, this time sending
+it the test input file you just created:
+`./the_typewriter pingpong.text logfile.text < test.input`
+
+What are the contents of pingpong.text now? Explain why those are the
+contents. If you see anything other than "pongping", try creating the
+file test.input again.
+
+Answer: Now, pingpong.text contains the word "pongping." This happens 
+because the commands in test.input results in the word "pong" being printed.
+However, in pingpong.text, the original file that had the word "ping" in it
+is edited so that the inputs in test.input is added before the orginal
+contents.
+
+
+3. What public functions from the TextUI class do you think you will
+need to use? Which TextUI function is used to actually display
+information on the user's terminal screen? Describe the arguments to
+that function.
+
+Answer: I will actually have to use the TextUI's startLogMode, render,
+getChar, and close in my code. The function displaySaveMessage will be 
+used to display information on the user's terminal screen. displaySaveMessage
+will take in the ints given from getTerminalLength and getTerminalWidth.
+
+
+4. Consider implementing the handling of the input "backspace." What
+are the different cases your implementation must consider? What
+should your implementation do in each case; specifically, how are the
+inputs to TextUI's render() function altered? You should play around
+with the reference implementation when coming up with your answers.
+
+Answer: I should consider cases when there is a character to delete, when
+there is nothing in the file, and when there is nothing in a line but there
+is a preceding line before the current one. When inputing "backspace" when 
+there is nothing in the file, I should delete the most recent character in the
+string and decrement the cursol column. If there is nothing in the file, I
+should do nothing. If there is nothing in the current line but something in a
+preceding line, I should decrement the cursor line and change the cursor
+column to the index of the last character in the previous line. 
+
+
+5. How many ActionStack instances will your program use? When are the
+different times an Action should be pushed on to one of these
+ActionStacks? What information does each Action store?
+
+Answer: I will use two ActionStack instances, one for undoes, and another for
+redoes. Whenever a character is typed in, that character should be added to
+the "undo" stack. Whenever an input is undone, the input should be added to
+the "redo" stack. 
+
+
+6. Use the reference implementation to play extensively with the
+"undo" feature (in typewriter: "escape" then "u"). Try undoing with
+many different inputs (printable characters, backspaces, newlines,
+etc.) and different combinations of these inputs. Make sure to try
+pressing undo multiple times in a row.
+
+What are the rules determining how many characters should be undone
+each time "undo" is entered? Express your answer using pseudocode. We
+encourage you to write your pseudocode using an ActionStack---this
+will more closely match the code you eventually write!
+
+Answer: Whenever the "undo" feature is called, the program takes in if the 
+last given input was a backspace or character added. If a character was added,
+the "undo" featrues takes in all the added characters until there is a 
+backspace input or the line ends. Those characters then get deleted. Vice
+versa if the most recent input was a backspace. 
+
+
+7. Now use the reference to play with "redo" functionality (in
+typewriter: "escape" then "r") after undoing actions. Write
+pseudocode below capturing the rules for how many characters should
+be "redone" each time "redo" is pressed.
+
+Answer: Every time "redo" is pressed, teh same amount of characters that was
+just undone would be reverted. The function does not work if "undo" was not
+just called. 
+
+8. Consider implementing the "up" arrow key functionality.
+
+   (a) What functions from the TextUI class will you need to use to
+       implement "up"?
+
+Answer: I would have to use getTerminalWidth.
+
+   (b) What are the different cases you need to consider for "up"?
+       In particular, consider: different lengths of the current line
+       (including lines that are long enough to wrap around), where
+       the cursor is located, and different lengths for the line prior
+       to the current line.
+
+Answer: I would have to consider if the current line is longer than the
+previous line. Additionally, I would have to consider if the cursor is at the
+first line in the file. 
+
+
+   (c) Provide pseudocode for the handling of the "up" arrow.
+
+
+
+Answer: If the cursor is at the first line in the file, do nothing. If the 
+cursor's current position is at a further column than the prior line's maximum
+   length, the cursor would go up a row at the end of that row. In all other
+   cases, the cursor would stay in the same column but would move to the 
+   previous row. 
+
+
+   (d) Now, provide psuedocode for the handling of the "down" arrow.
+
+Answer: If the cursor is at the last line in the file, do nothing. If the 
+cursor's current position is at a further column than the next line's maximum
+   length, the cursor would go down a row at the end of that row. In all other
+   cases, the cursor would stay in the same column but would move to the 
+   previous row. 
+
+
+9. What classes will you need in your program?  What are the important
+functions and member variables that those classes will comprise? How
+will the classes interact (i.e., which classes will be clients of
+others)?
+
+Answer: I will have to use the TextUI, ActionStack, and the Editor classes
+in my program. ActionStack will contain functions that add and remove elements
+from the stack and functions that return the size and top of the stack. I plan
+to use a list with a back pointer for this class. TextUI contains functions 
+that deal with the logistical side of the typewriter. Finally, the editor
+class contains functions that edits the contents of the file. The editor class
+and ActionStack class are clients of TextUI.
+
+
+10. How do you plan to test your program? What evidence of testing do
+you plan to submit?
+
+Answer: I plan to create test files using the keylogger program. I plan to 
+submit test files created by the keylogger command along with output files
+created by my program and the demo program. 
+
+
+11. What is your timeline for completing this project? What would you
+like to have completed, and by which dates?  
+
+Answer: before the due date -\(-_-)/-

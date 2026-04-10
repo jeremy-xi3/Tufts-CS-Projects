@@ -1,0 +1,244 @@
+: Cursor Position: [0, 0]
+
+: Cursor Position: [1, 0]
+T
+: Cursor Position: [2, 0]
+Th
+: Cursor Position: [3, 0]
+The
+: Cursor Position: [4, 0]
+The 
+: Cursor Position: [5, 0]
+The q
+: Cursor Position: [6, 0]
+The qu
+: Cursor Position: [7, 0]
+The qui
+: Cursor Position: [8, 0]
+The quic
+: Cursor Position: [9, 0]
+The quick
+: Cursor Position: [10, 0]
+The quick 
+: Cursor Position: [11, 0]
+The quick b
+: Cursor Position: [12, 0]
+The quick br
+: Cursor Position: [13, 0]
+The quick bro
+: Cursor Position: [14, 0]
+The quick brow
+: Cursor Position: [15, 0]
+The quick brown
+: Cursor Position: [16, 0]
+The quick brown 
+: Cursor Position: [17, 0]
+The quick brown f
+: Cursor Position: [18, 0]
+The quick brown fo
+: Cursor Position: [19, 0]
+The quick brown fox
+: Cursor Position: [20, 0]
+The quick brown fox 
+: Cursor Position: [21, 0]
+The quick brown fox j
+: Cursor Position: [22, 0]
+The quick brown fox ju
+: Cursor Position: [23, 0]
+The quick brown fox jum
+: Cursor Position: [24, 0]
+The quick brown fox jump
+: Cursor Position: [25, 0]
+The quick brown fox jumps
+: Cursor Position: [26, 0]
+The quick brown fox jumps 
+: Cursor Position: [27, 0]
+The quick brown fox jumps o
+: Cursor Position: [28, 0]
+The quick brown fox jumps ov
+: Cursor Position: [29, 0]
+The quick brown fox jumps ove
+: Cursor Position: [30, 0]
+The quick brown fox jumps over
+: Cursor Position: [31, 0]
+The quick brown fox jumps over 
+: Cursor Position: [32, 0]
+The quick brown fox jumps over t
+: Cursor Position: [33, 0]
+The quick brown fox jumps over th
+: Cursor Position: [34, 0]
+The quick brown fox jumps over the
+: Cursor Position: [35, 0]
+The quick brown fox jumps over the 
+: Cursor Position: [36, 0]
+The quick brown fox jumps over the l
+: Cursor Position: [37, 0]
+The quick brown fox jumps over the la
+: Cursor Position: [38, 0]
+The quick brown fox jumps over the laz
+: Cursor Position: [39, 0]
+The quick brown fox jumps over the lazy
+: Cursor Position: [40, 0]
+The quick brown fox jumps over the lazy 
+: Cursor Position: [41, 0]
+The quick brown fox jumps over the lazy d
+: Cursor Position: [42, 0]
+The quick brown fox jumps over the lazy do
+: Cursor Position: [43, 0]
+The quick brown fox jumps over the lazy dog
+: Cursor Position: [42, 0]
+The quick brown fox jumps over the lazy do
+: Cursor Position: [41, 0]
+The quick brown fox jumps over the lazy d
+: Cursor Position: [40, 0]
+The quick brown fox jumps over the lazy 
+: Cursor Position: [39, 0]
+The quick brown fox jumps over the lazy
+: Cursor Position: [40, 0]
+The quick brown fox jumps over the lazyc
+: Cursor Position: [41, 0]
+The quick brown fox jumps over the lazyca
+: Cursor Position: [42, 0]
+The quick brown fox jumps over the lazycat
+: Cursor Position: [39, 0]
+The quick brown fox jumps over the lazy
+: Cursor Position: [43, 0]
+The quick brown fox jumps over the lazy dog
+: Cursor Position: [39, 0]
+The quick brown fox jumps over the lazy
+: Cursor Position: [40, 0]
+The quick brown fox jumps over the lazya
+: Cursor Position: [41, 0]
+The quick brown fox jumps over the lazyan
+: Cursor Position: [42, 0]
+The quick brown fox jumps over the lazyand
+: Cursor Position: [43, 0]
+The quick brown fox jumps over the lazyand 
+: Cursor Position: [44, 0]
+The quick brown fox jumps over the lazyand r
+: Cursor Position: [45, 0]
+The quick brown fox jumps over the lazyand ru
+: Cursor Position: [46, 0]
+The quick brown fox jumps over the lazyand run
+: Cursor Position: [47, 0]
+The quick brown fox jumps over the lazyand runs
+: Cursor Position: [48, 0]
+The quick brown fox jumps over the lazyand runs 
+: Cursor Position: [49, 0]
+The quick brown fox jumps over the lazyand runs a
+: Cursor Position: [50, 0]
+The quick brown fox jumps over the lazyand runs aw
+: Cursor Position: [51, 0]
+The quick brown fox jumps over the lazyand runs awa
+: Cursor Position: [52, 0]
+The quick brown fox jumps over the lazyand runs away
+: Cursor Position: [39, 0]
+The quick brown fox jumps over the lazy
+: Cursor Position: [43, 0]
+The quick brown fox jumps over the lazy dog
+: Cursor Position: [39, 0]
+The quick brown fox jumps over the lazy
+: Cursor Position: [52, 0]
+The quick brown fox jumps over the lazyand runs away
+: Cursor Position: [53, 0]
+The quick brown fox jumps over the lazyand runs away!
+: Cursor Position: [39, 0]
+The quick brown fox jumps over the lazy
+: Cursor Position: [53, 0]
+The quick brown fox jumps over the lazyand runs away!
+: Cursor Position: [39, 0]
+The quick brown fox jumps over the lazy
+: Cursor Position: [40, 0]
+The quick brown fox jumps over the lazya
+: Cursor Position: [41, 0]
+The quick brown fox jumps over the lazyag
+: Cursor Position: [42, 0]
+The quick brown fox jumps over the lazyaga
+: Cursor Position: [43, 0]
+The quick brown fox jumps over the lazyagai
+: Cursor Position: [44, 0]
+The quick brown fox jumps over the lazyagain
+: Cursor Position: [43, 0]
+The quick brown fox jumps over the lazyagai
+: Cursor Position: [42, 0]
+The quick brown fox jumps over the lazyaga
+: Cursor Position: [41, 0]
+The quick brown fox jumps over the lazyag
+: Cursor Position: [40, 0]
+The quick brown fox jumps over the lazya
+: Cursor Position: [39, 0]
+The quick brown fox jumps over the lazy
+: Cursor Position: [44, 0]
+The quick brown fox jumps over the lazyagain
+: Cursor Position: [39, 0]
+The quick brown fox jumps over the lazy
+: Cursor Position: [44, 0]
+The quick brown fox jumps over the lazyagain
+: Cursor Position: [39, 0]
+The quick brown fox jumps over the lazy
+: Cursor Position: [44, 0]
+The quick brown fox jumps over the lazyagain
+: Cursor Position: [45, 0]
+The quick brown fox jumps over the lazyagaint
+: Cursor Position: [46, 0]
+The quick brown fox jumps over the lazyagainte
+: Cursor Position: [47, 0]
+The quick brown fox jumps over the lazyagaintes
+: Cursor Position: [48, 0]
+The quick brown fox jumps over the lazyagaintest
+: Cursor Position: [49, 0]
+The quick brown fox jumps over the lazyagaintesti
+: Cursor Position: [50, 0]
+The quick brown fox jumps over the lazyagaintestin
+: Cursor Position: [51, 0]
+The quick brown fox jumps over the lazyagaintesting
+: Cursor Position: [52, 0]
+The quick brown fox jumps over the lazyagaintestingu
+: Cursor Position: [53, 0]
+The quick brown fox jumps over the lazyagaintestingun
+: Cursor Position: [54, 0]
+The quick brown fox jumps over the lazyagaintestingund
+: Cursor Position: [55, 0]
+The quick brown fox jumps over the lazyagaintestingundo
+: Cursor Position: [56, 0]
+The quick brown fox jumps over the lazyagaintestingundo 
+: Cursor Position: [57, 0]
+The quick brown fox jumps over the lazyagaintestingundo r
+: Cursor Position: [58, 0]
+The quick brown fox jumps over the lazyagaintestingundo re
+: Cursor Position: [59, 0]
+The quick brown fox jumps over the lazyagaintestingundo red
+: Cursor Position: [60, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo
+: Cursor Position: [61, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo 
+: Cursor Position: [62, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo s
+: Cursor Position: [63, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo sy
+: Cursor Position: [64, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo sys
+: Cursor Position: [65, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo syst
+: Cursor Position: [66, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo syste
+: Cursor Position: [67, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo system
+: Cursor Position: [66, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo syste
+: Cursor Position: [65, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo syst
+: Cursor Position: [64, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo sys
+: Cursor Position: [63, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo sy
+: Cursor Position: [62, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo s
+: Cursor Position: [61, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo 
+: Cursor Position: [67, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo system
+: Cursor Position: [68, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo systemP
+: Cursor Position: [69, 0]
+The quick brown fox jumps over the lazyagaintestingundo redo systemPA

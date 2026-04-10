@@ -1,0 +1,154 @@
+/**********************************************************
+* Project 2: Zap
+* CS 15
+* README
+* Jeremy Xie
+*********************************************************/
+
+
+
+Purpose of program: The purpose of this program is to create a compression
+    function that reduces a text file into a binary string. Furthermore, this
+    binary string can be decompressed and reverted back into its regular form
+    using the same program with different command line arguments. 
+
+
+
+Help received:
+I visited office hours and recieved help on the bad zap file case from Andre.
+
+C++ reference to unordered_map by cplusplus:
+https://cplusplus.com/reference/unordered_map/unordered_map/
+
+C++ reference to string by cplusplus:
+https://cplusplus.com/reference/string/string/
+
+Ifstream reset
+https://stackoverflow.com/questions/7681555/
+resetting-the-end-of-file-state-of-a-ifstream-object-in-c/7681566#7681566
+
+Utility pair:
+https://cplusplus.com/reference/utility/pair/pair/ 
+
+
+
+Files:
+In my submission, I have included the following files:
+
+HuffmanCoder.cpp: Contains the implementation for the HuffmanCoder class.
+
+HuffmanCoder.h: Contains two public functions, encoder and decoder. 
+    Encoder takes in an input file that contains a text and outputs it in the
+    form of a binary string and a serialized HuffmanTree. On the other hand,
+    decoder takes in an input file that contains a binary string, which 
+    represents the encoded text, and a serialized HuffmanTree, which contains 
+    the code in  which the binary string was written. Together, these two 
+    functions combine to create a way to encode and decode a given text. 
+
+HuffmanTreeNode.h: Contains the functions declarations for the HuffmanTreeNode
+    class.
+
+main.cpp: Takes in the command line arguments and allows the program to run.
+
+Makefile: Contains neccessary information to compile the program using the 
+    "make zap" command.
+
+minpq_example.cpp: Contains an example of how a minimum priority queue should
+    work in a similar context.
+
+phaseOne.cpp: Contains the implementation for the phaseOne functions.
+
+phaseOne.h: Contains 3 main functions, count_freqs, serialize_tree, and
+    deserialize_tree. These functions will provide the groundwork for an
+    implementation of the actual zap program, where count_freqs counts the
+    frequencies of each character, serialize_tree turns a HuffmanTreeNode 
+    and its children into a string, and deserialize_tree turns a string 
+    into a Huffman tree. 
+
+README: Contains answers to questions provided at the end of the spec.
+
+unit_tests.h: Contains tests for the phaseOne class and its functions.
+
+ZapUtil.h: Contains the function declarations for the ZapUtil class.
+
+ZapUtilExample.cpp: Contains an example of how the ZapUtil class should work.
+
+all_conll_english.txt: Given text file for testing
+
+banana_apple.txt: Given text file for testing
+
+banana.txt: Given text file for testing
+
+ecoli.coli: Given text file for testing
+
+hi.txt: Given text file for testing
+
+sentences.txt: Given text file for testing
+
+test1.txt: Self-made text file for testing
+
+works_of_shakespeare.txt: Given text file for testing
+
+works_of_shakespeare_zapped.txt: Shakespeare text file after being zapped 
+
+works_of_shakespeare_decoded.txt: Shakespeare text file after being zapped
+and unzapped.
+
+test1_zapped.txt: self-made text file after being zapped
+
+test1_decoded.txt: self-made text file after being zapped and unzapped
+
+sentences_zapped.txt: sentences text file after being zapped 
+
+sentences_decoded.txt: sentences text file after being zapped
+and unzapped.
+
+ecoli_zapped.txt: sentences text file after being zapped 
+
+ecoli_decoded.txt: sentences text file after being zapped
+and unzapped.
+
+
+How to compile/run: To compile the program, use the command "make zap". In order
+to run the program, prove the command line with the executable, "./zap", the
+function the program should use, "zap" or "unzap", the input file to compress
+or decompress, and the output file where the program should output. 
+
+
+
+Data Structures/ADT:
+The ADT used in this program was a minimum priority queue. In this program, a
+minumum priority queue was used because it automatically sorted the frequency
+of each character from each node in the queue as it constructed a Huffman
+tree. In order to implement this ADT, a unordered map was 
+used. First, the unordered map was used to count the number of times that each
+character appears in the text. The use of the unordered map was able to create
+nodes that held the frequencies of each character, which were then inserted
+into a priority queue to assemble a Huffman tree. The priority queue was used
+because its status as a minimum priority queue allowed for the nodes that had
+the lowest frequency to be removed from the queue first. In this process,
+nodes with higher frequencies were able to be accessed later in the tree's 
+construction, resulting in more frequent characters being closer to the root
+of the tree. 
+
+
+
+Testing: 
+I tested the functions in phase one of the assignment by creating unit tests.
+Within the unit tests, I had created tests for cases with basic cases, fuller
+trees and strings, and empty trees or strings. When testing the main zap
+program, I started implementing the encoding function first. As a result, 
+to test encoding, I used my output file from encoding as an input file for
+the sample zap implementation. From there, I used the diff command on the 
+original text and the outputted text to confirm that my encoding function was
+accurate. Similarly, after I confirmed my "zap" implementation was complete,
+I used a similar process for the "unzap" implementation. In this case, I
+had confirmed that my zap implementation had worked and I used it on a text,
+followed by the unzap implementation. Finally, with this output file, I used
+the diff command again to confirm the decoded text was the same as the 
+original. The "bad zap file" edgecase was tested by the "bad_zap_file" given
+in the original files. 
+
+
+
+Time spent: 10 hours

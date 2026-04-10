@@ -1,0 +1,175 @@
+/**********************************************************
+* Project 2: Typewriter
+* CS 15
+* README
+* Jeremy Xie
+*********************************************************/
+
+Compile/run:
+     - Compile using
+            make typewriter
+     - run executable with
+            ./typewriter textFile [logFile]
+
+
+Program Purpose:
+To run a text editor named "typewriter"
+
+Acknowledgements: 
+I used the posts on https://cplusplus.com/ to understand the vector, string, 
+and list classes. Additionally, I used the posts on Piazza and office hours 
+to better understand the TextUI class. 
+
+Files: 
+
+main.cpp:
+       Reads in files given in the command line and creates a query in which
+       typewriter can run by using the run function in the Editor class.
+
+ActionStack.cpp:
+       Implements the ActionStack class and provides functions for it.
+
+ActionStack.h:
+       Interface of the ActionStack class.
+
+test.input:
+       Test file to understand the demo program.
+
+testinput1.txt:
+       Input for a test to be run with the_better_typewriter or my 
+       implementation for typewriter. 
+
+input1truthlogfile.txt:
+       Output of command mode given by the_better_typewriter for test 1.
+
+testinput1logfile.txt:
+       Output of command mode given by my implementation for test 1. 
+
+Editor.cpp:
+       Implements the Editor class and provides functions for it.
+
+Editor.h:
+       Interface of the Editor class.
+
+Makefile:
+     Contains neccessary information to compile the program using the 
+     "make typewriter" command.
+
+TextUI.h:
+       Contains interface of the TextUI class. 
+
+testinput2.txt:
+       Input for test 2 to be run with the_better_typewriter or my 
+       implementation for typewriter. 
+
+test2truth.txt:
+       Output of command mode given by the_better_typewriter for test 2.
+
+test2logfile.txt:
+       Output of command mode given by my implementation for test 2. 
+
+input3.txt:
+       Input for test 3 to be run with the_better_typewriter or my 
+       implementation for typewriter. 
+
+test3truth.txt:
+       Output of command mode given by the_better_typewriter for test 3.
+
+test3logfile.txt:
+       Output of command mode given by my implementation for test 3. 
+
+input4.txt:
+       Input for test 4 to be run with the_better_typewriter or my 
+       implementation for typewriter. 
+
+test4truth.txt:
+       Output of command mode given by the_better_typewriter for test 4.
+
+test4logfile.txt:
+       Output of command mode given by my implementation for test 4. 
+
+input5.txt:
+       Input for test 5 to be run with the_better_typewriter or my 
+       implementation for typewriter. 
+
+test5truth.txt:
+       Output of command mode given by the_better_typewriter for test 5.
+
+test5logfile.txt:
+       Output of command mode given by my implementation for test 5. 
+
+input6.txt:
+       Input for test 4 to be run with the_better_typewriter or my 
+       implementation for typewriter. 
+
+test6truth.txt:
+       Output of command mode given by the_better_typewriter for test 6.
+
+test6logfile.txt:
+       Output of command mode given by my implementation for test 6. 
+
+input7.in:
+       Input for test 7 to be run with the_better_typewriter or my 
+       implementation for typewriter. 
+
+test7truth.txt:
+       Output of command mode given by the_better_typewriter for test 7.
+
+test7logfile.txt:
+       Output of command mode given by my implementation for test 7. 
+
+mindfulness.text:
+       Sample text that was given when importing files. 
+
+unit_tests.h:
+       Contains tests made for the ActionStack class. 
+
+README:
+       Contains answers to questions provided at the end of the spec. 
+
+How to compile and run:
+To compile, use "make typewriter". To run, use the command 
+./typewriter, followed by a text file that may or may not exist,
+and optionally, a file to take in the log movements of the cursor and
+state of the text. Without the third argument, the updates will not be
+recorded. Additionally, if the second argument is a valid file, it 
+should display the contents of that file to fit the bounds of the
+terminal. Conversely, if the file does not exist, the typewriter
+program will create the file in the directory. 
+
+Outline of ADT (architectural overview):
+In the Editor class, I used a vector of strings to represent the text. I
+decided to use a vector of strings to contain the printable characters
+and the amount of rows in the function. Specifically, in order to render, I
+would have to access every element in the vector, making it the most amount
+of sense to use a vector to have fast access to any element. Additionally, in
+the Editor class, I have also included two ActionStacks in my program, one for
+redoes and another for undoes. Within the ActionStacks, I have used a list. 
+I decided to use a list because to make an implementation of a stack, I would
+need fast access to the last element of a queue. In the C++ version of a list,
+there is relatively fast access to the last element, along with removal and
+ability to append to the end of that element. This is because of the use of a 
+back pointer. 
+
+Testing:
+Within the files I have submitted, I have included 7 input files that I have 
+used to test the outputs of the_better_typewriter and my implementation of
+typewriter. Additionally, I have included an unit_test to test all of the
+relevant functions in ActionStack. Of the 7 input files, the second test was
+to test the arrowkey functions, and the seventh was to test the undo and redo
+functions. The other input files contain tests designed to cause newline and
+wraparound exceptions. 
+
+Hours spent:
+30 hours
+
+Extra notes:
+Hello,
+
+In my submission, I aknoledge that a main source of autograder failing tests
+comes from my redo function not working. I aknowledge that I do not deserve
+any pity points for having a faulty implementation. However, as I have spent
+upwards of 5 hours trying to fix the while loop in my code to no avail, I am
+asking for an extra credit oppurtunity to boost up my grade in the course.
+
+Thank you

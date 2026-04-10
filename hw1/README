@@ -1,0 +1,33 @@
+(A) CS 15 ArrayLists Homework
+(B) The purpose of the program is to make a Character Array List and create 
+functions that return certain values in each list. Additionally, the functions
+will also alter certain characters in the lists. 
+(C) I went to office hours to better understand the &operator= function. I
+also asked a question on Piazza.
+(D) I have provided CharArrayList.h which is a header file for 
+CharArrayList.cpp. CharArrayList.cpp has the function definitions for the 
+CharArrayLists. I have also provided unit_tests.h, a file that contains 
+tests for each function.
+(E) By using unit_test.
+(F) In my code, my abstract data type is the list of characters, which
+inclues operations such as insertion, removal, indexed access, replacement,
+and concatenation. The ADT is implemented using an array list, which is
+dynamically allocated with variable that track the array's size and capacity.
+The structure is constantly updated to allocate for more characters and bigger
+lists. I used a dynamic array because it would the easiest structure to use
+to create a list that would update and expand when needed to. The main 
+advantage is the fast access to the elements in the list. However, the main 
+disadvanges are the time of insertions and removals.
+(G) I have tested my assignmet by creating tests in unit_tests.h. In these 
+tests, I have created edge cases that would give range errors and runtime
+errors. Additionally, I have created tests that target the front, back, and
+middle of a character array list.
+(H) 5 hours
+(I) 1. (in nanoseconds) Insertion: Front: 2252909 Back: 477 Middle: 2206020
+Removal: Front: 2197134 Back: 2228364 Middle: 1149500
+Access: Front: 618 Back: 607 Middle: 420
+Fastest to slowest: access, insertion, Removal
+2. Some operations were slower than others because they did not use for loops.
+To give an example, in my access functions, I don't use a loop and it is the
+fastest operation. Inserting and removing take around the same time because
+I use for loops to recreate the array list. 

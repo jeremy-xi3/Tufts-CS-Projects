@@ -1,0 +1,161 @@
+Names: Dimian Luo,Jeremy Xie
+utlns: dluo02, jxie05
+
+Answer the questions below, and submit your answers under the assignment
+"gerp Design Checkoff" on Gradescope. You must sign up for a design checkoff
+slot with a TA to discuss your provided answers (see spec for sign up link).
+Make sure to submit this file *prior* to your design checkoff.
+
+For each question, give as much detail as you feel is necessary.
+
+1. What classes and structs will you implement for your program? For each class,
+   provide a list of public functions of that class; for each struct, provide a
+   list of member variables.
+
+Answer: We will implement the gerp class that utilizes FSTree and DirNodes to 
+        store the processed information. gerp will have at least two public 
+        functions, the first will process the directory given by the user, the
+        second will process the commands given by the user. Some member 
+        variables include, FSTree...
+        Additionally, we would need a struct in the index to record each word,
+        the file location, line location, and the entire line where the word
+        appears. 
+        
+2. Describe the index that you will build for querying. What specific data
+   structures will you use to build this index? *Important*: Bring an
+   accompanying drawing of your index structure when you come to your checkoff.
+
+Answer:  The index we will build for querying would resemble a hash table. In
+         this case, the index would take the form of a vector that resizes
+         whenever there is more words than capacity for the vector. For each
+         element in the vector, there would be a key that leads to a specific
+         index inside of a vector. Additionally, once inside of the element for
+         its respective word, there would be a linked list that contains a
+         struct for each iteration of the word's appearance. 
+
+3. To use your index, you will use something for lookup (the key) and you will
+   get some associated data back (the value). What are the C++ *types* of your
+   index's key and value? Examples of valid types: int, string,
+   vector<string>, vector<list<string>>; you may also define custom types using
+   structs/classes, e.g., Animal and vector<Animal> are valid types if you
+   define a struct/class named Animal. If your key/value types involve custom
+   classes/structs, they should be included in your answer to question #1.
+                
+Answer: 
+
+   Key type: The word
+   Value type: Location and contents of the line where the word occurs. This
+               will come from a struct that holds the file location, line
+               location, and the contents of the line. 
+
+4. Explain what a collision is versus having multiple lines associated with 
+   a particular word. Write (and/or draw) out an example of when a 
+   collision occurs. Write (and/or draw) out an example of when multiple 
+   lines associated with a single word. 
+
+Answer: A collision is when two words have the same lines associated whereas 
+        having multiple lines associated with a particular word is closer to a 
+        chained hash.
+
+        ex. "apple" and "banana" both return the value 2 (collision)
+
+        ex. "apple" returns a vector of values 2, 3, 4
+
+5. What do you expect the *space* complexity of your index will be? How many
+   times will a single line be stored according to your data structures?
+
+Answer:  O(n + m)
+         n is the number of lines stored while m the number of words. 
+         A single line will be stored as many times for each word that it has. 
+
+6. What is the time complexity of *building* your index? If you refer to some
+   variable, be sure to specify what the variable refers to, e.g., in "O(n)",
+   state explicitly what "n" is.
+
+Answer: O(n) in the average case, O(n^2) in the worst case
+        n in this case would be the number of words present in the entire 
+        directory, including subdirectories
+                
+7. What is the time complexity of *using* your index for lookup? As above,
+   be specific about variables you use.
+
+Answer: O(1) in the average case, O(n) in the worst case
+        n would be the number of keys in the hash table
+
+8. How will you handle case-sensitive search?
+   What is the time complexity (should be close to O(1))?
+
+Answer:  We would handle case-sensistive search by using an ASCII table for
+         each character value inside of the string. This way, if two 
+         words have the same letters in different cases, their ASCII values
+         would differ from each other and would cause them to be classified
+         under different words. 
+
+9. How will you handle case-insensitive search?
+   What is the time complexity (should be close to O(1))?
+
+Answer:  We would handle case-insensitive search by converting the capital
+         letters to their lowercase versions. This could be done by checking
+         if a character falls into the uppercase letter ASCII range, and if
+         it does, it could be converted into its lowercase form by subtracting
+         32 from the ASCII value.
+
+
+10. How are you handling duplicate words within a line? Consider these two example 
+   lines: 
+
+      (i) the cat and the dog 
+      (ii) the cat and THE dog 
+
+   If a user does a case sensitive query on line (i) it should report 'the' only 
+   once by showing the line only once in the output. How will you do this? 
+
+   If a user does a case insensitive query on line (ii) it should report 'the' 
+   only once by showing the line only once in the output. How will you do this? 
+
+Answer: If the user does a case sensitive query, the program searches and 
+        finds two occurrences in the line. Because they are both the same 
+        line, the set will only store it once to be outputted as they are not 
+        unique from another.
+        If the user does a case insensitive query, the program first converts 
+        both the query and line to lowercase. Then the program searches and 
+        finds two occurrences in the line. Because they are both the same 
+        line, the set will only store it once to be outputted as they are not
+        unique from another.
+
+11. How will you test your implementation and what specific evidence of testing
+    will you submit?
+
+Answer: We will test our part one implementation using unit_tests.h as it would
+        be easier to isolate our mistakes. We will provide evidence through
+        the submission of our unit_tests.h file.
+        For our final project we will likely use diff as testing. To provide
+        specific evidence of testing we will submit folders and text files that
+        we have used to test with.
+
+12. What is your schedule for completing this assignment? Include specific dates
+    and the tasks that you would like to accomplish by each date. Do not forget
+    testing!
+
+Answer: Week One
+        Tuesday Design Checkoff
+        Wednesday Part One
+
+        Week Two
+        Tuesday Final Submission
+
+Advice
+Store the entire file in a data structure
+FSTree is given with the intention to get everything set up
+Isn't recommended to rely on FSTree and DirNode after the initial point
+
+2D Vectors (other ways can work as well, research)
+Minimize both space and time complexity
+
+int doesn't take up a lot of space
+each word has file id, line number
+
+vector list of structs
+what does that struct have
+
+create a main for phase one to test traverse
